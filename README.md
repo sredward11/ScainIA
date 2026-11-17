@@ -19,7 +19,7 @@ React Native · Expo · Expo Router · TypeScript · Supabase (Auth, Postgres, S
 
 | Notas | Escanear | Detalhes | Resumo |
 | ----- | -------- | -------- | ------ |
-| ![Notas](docs/notas.png) | ![Escanear](docs/escanear.png) | ![Detalhes](docs/detalhes.png) | ![Resumo](docs/resumo.png) |
+| ![Notas](docs/notas.png) | ![Escanear](docs/escanear.png) | ![Perfil](docs/detalhes.png) | ![Resumo](docs/resumo.png) |
 
 ## Como executar
 
